@@ -1,0 +1,15 @@
+"C:\Program Files\IAR Systems\Embedded Workbench 7.3\arm\bin\armproc.dll" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 7.3\arm\bin\armxds2.dll" 
+
+"D:\ECG\run_20160115_1100_CHECKPOINT_TempBatWorking_20160312\run_20160115_1100_CHECKPOINT_TempBatWorking\Projects\ble\SimpleBLEPeripheral\CC26xx\IAR\Application\CC2640\FlashROM\Exe\SimpleBLEPeripheralAppFlashROM.out" 
+
+--plugin "C:\Program Files\IAR Systems\Embedded Workbench 7.3\arm\bin\armbat.dll" 
+
+--device_macro "C:\Program Files\IAR Systems\Embedded Workbench 7.3\arm\config\debugger\TexasInstruments\CC26xx.dmac" 
+
+--flash_loader "C:\Program Files\IAR Systems\Embedded Workbench 7.3\arm\config\flashloader\TexasInstruments\FlashCC26xxF128RAM20.board" 
+
+
+
+

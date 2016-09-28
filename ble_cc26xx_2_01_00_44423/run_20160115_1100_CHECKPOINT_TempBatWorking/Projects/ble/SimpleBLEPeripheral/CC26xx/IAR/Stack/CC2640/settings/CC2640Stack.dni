@@ -1,0 +1,44 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[XdsDriver]
+CStepIntDis=_ 0
+xds100serialNo=06EB122027D9
+xds100foundProbes=
+xdsResetStyle=0
+xdsResetStrategy=3
+[DebugChecksum]
+Checksum=-1265959200
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[CallStackLog]
+Enabled=0
+[CallStackStripe]
+ShowTiming=1
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Count=0
+[Aliases]
+A0=_ "C:\ti\simplelink\ble_cc26xx_2_01_00_44423_20151210_SPI_Format_LED\Projects\ble\common\cc26xx\ICall_startup.c" ""
+Count=1
+SuppressDialog=0
